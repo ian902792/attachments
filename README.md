@@ -1,0 +1,2 @@
+# attachments
+For obsidian usage
